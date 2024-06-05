@@ -1,0 +1,15 @@
+/Users/williamsantanadeamorim/Projects/Descontável/Descontável/bin/Debug/net7.0/Descontável
+/Users/williamsantanadeamorim/Projects/Descontável/Descontável/bin/Debug/net7.0/Descontável.deps.json
+/Users/williamsantanadeamorim/Projects/Descontável/Descontável/bin/Debug/net7.0/Descontável.runtimeconfig.json
+/Users/williamsantanadeamorim/Projects/Descontável/Descontável/bin/Debug/net7.0/Descontável.dll
+/Users/williamsantanadeamorim/Projects/Descontável/Descontável/bin/Debug/net7.0/Descontável.pdb
+/Users/williamsantanadeamorim/Projects/Descontável/Descontável/obj/Debug/net7.0/Descontável.csproj.AssemblyReference.cache
+/Users/williamsantanadeamorim/Projects/Descontável/Descontável/obj/Debug/net7.0/Descontável.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamsantanadeamorim/Projects/Descontável/Descontável/obj/Debug/net7.0/Descontável.AssemblyInfoInputs.cache
+/Users/williamsantanadeamorim/Projects/Descontável/Descontável/obj/Debug/net7.0/Descontável.AssemblyInfo.cs
+/Users/williamsantanadeamorim/Projects/Descontável/Descontável/obj/Debug/net7.0/Descontável.csproj.CoreCompileInputs.cache
+/Users/williamsantanadeamorim/Projects/Descontável/Descontável/obj/Debug/net7.0/Descontável.dll
+/Users/williamsantanadeamorim/Projects/Descontável/Descontável/obj/Debug/net7.0/refint/Descontável.dll
+/Users/williamsantanadeamorim/Projects/Descontável/Descontável/obj/Debug/net7.0/Descontável.pdb
+/Users/williamsantanadeamorim/Projects/Descontável/Descontável/obj/Debug/net7.0/Descontável.genruntimeconfig.cache
+/Users/williamsantanadeamorim/Projects/Descontável/Descontável/obj/Debug/net7.0/ref/Descontável.dll
